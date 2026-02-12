@@ -1,4 +1,4 @@
-# Scavngr Stellar ♻️
+# Stellar Scavenger ♻️
 
 Blockchain-powered waste pickup platform connecting recyclers and collectors on Stellar network.
 
